@@ -2,6 +2,9 @@
 
 This project presents a **Smart Mailbox** system designed to detect the arrival of physical letters and notify the user in real time using a Telegram bot. It integrates sensors, a camera, and servo-controlled locking mechanisms, offering full remote control and monitoring from any device via Telegram.
 
+All functionalities have been implemented using a **Raspberry Pi 3 Model B**, which acts as the central controller for all hardware and software operations.
+
+
 ---
 
 ## 🔧 How It Works
