@@ -59,8 +59,7 @@ The Telegram bot supports the following commands:
 
 ## 👨‍💻 Authors
 
-**Héctor Gordillo**
-**Javier Fernández**
+**Héctor Gordillo** & **Javier Fernández**
 
 ---
 
